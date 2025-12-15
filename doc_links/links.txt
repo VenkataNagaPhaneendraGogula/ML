@@ -1,0 +1,254 @@
+𝟰 𝗔𝗜 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝗶𝗻 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁!😍
+
+Want to stand out as an AI developer?✨️
+
+These 4 AI certifications will help you build expertise, understand AI ethics, and develop impactful solutions! 💡🤖
+
+𝐋𝐢𝐧𝐤👇:-
+
+https://pdlink.in/41hvSoy
+
+Perfect for Beginners & Developers Looking to Upskill!✅️
+
+https://www.freecodecamp.org/news/how-to-use-langchain-and-langgraph-a-beginners-guide-to-ai-workflows
+
+https://share.google/w9WuQuIbuw72QZHHH
+
+https://github.com/NVIDIA-Merlin/Transformers4Rec
+
+https://www.youtube.com/watch?v=p3sij8QzONQ
+
+https://www.youtube.com/watch?v=CfJ3Cxtlcps
+
+https://www.youtube.com/watch?v=SXnHqFGLNxA
+
+https://www.youtube.com/watch?v=ZaPbP9DwBOE
+
+https://miptgirl.medium.com/programming-not-prompting-a-hands-on-guide-to-dspy-04ea2d966e6d
+
+https://medium.com/@adkananthi/logits-as-confidence-the-hidden-power-ai-engineers-need-to-unlock-in-llms-and-vlms-194d512c31f2
+
+https://www.youtube.com/watch?v=Jaj_SQsF-BI
+
+https://devopslearning.medium.com/i-built-qwen3-from-scratch-and-heres-what-i-learned-theory-0480b3171412
+
+https://magazine.sebastianraschka.com/p/qwen3-from-scratch
+
+https://youtube.com/watch?v=OYvlznJ4IZQ&si=36dbm3PgVtLqIR0f
+
+https://www.youtube.com/watch?v=nKSk_TiR8YA
+
+https://miptgirl.medium.com/programming-not-prompting-a-hands-on-guide-to-dspy-04ea2d966e6d
+
+https://docs.google.com/document/d/19bBr_FrZSz_JKCb9UXuJZekL_5QgqbS-GCnFxX2aZ1A/edit?tab=t.0
+
+Introduction to Regression: Predicting continuous values.
+Simple Linear Regression: Concept, cost function (MSE), gradient descent intuition.
+Multiple Linear Regression: Extending to multiple features.
+Assumptions of Linear Regression.
+Implementation with scikit-learn.
+Model Evaluation: R-squared, MAE, MSE, RMSE.
+
+Today Explore on this 
+Review of NumPy ndarray and operations.
+In-depth Pandas: DataFrame and Series creation, indexing, slicing.
+Loading and Saving Data: CSV, Excel, basic SQL.
+Data Cleaning: Handling missing values (imputation, dropping), duplicate records.
+Data Transformation: Feature scaling (StandardScaler, MinMaxScaler), encoding categorical features (OneHotEncoder, LabelEncoder).
+
+Hi Team Explore on this today
+What is AI? (Strong AI vs. Weak AI, branches: ML, DL, NLP, CV, Robotics)
+What is Machine Learning? (Definition, scope, history)
+Types of Machine Learning:
+Supervised Learning (Regression, Classification)
+Unsupervised Learning (Clustering, Dimensionality Reduction)
+Reinforcement Learning (Basic concepts)
+The Machine Learning Workflow: Problem definition, Data collection, Data preparation, Model training, Model evaluation, Deployment.
+
+https://www.youtube.com/watch?v=K5VMM3ZjXkM more AI features.. it is with odoo 18.3 but should work with odoo 19
+
+https://www.youtube.com/watch?v=bR4fMLd_fTg lets integrate this
+
+lets integrate these Ai features alos https://www.youtube.com/watch?v=iPXvDE7hImU
+
+Also lets try this guys https://blog.pragtech.co.in/odoo-19-business-card-scanner-how-ai-powered-lead-capture-is-transforming-manufacturing-sales-teams-in-2025/ odoo side also webcam integrations there
+
+🎓 𝐀𝐜𝐜𝐞𝐧𝐭𝐮𝐫𝐞 𝐅𝐑𝐄𝐄 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 | 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄 😍
+
+Boost your skills with 100% FREE certification courses from Accenture!
+
+📚 FREE Courses Offered:
+1️⃣ Data Processing and Visualization
+2️⃣ Exploratory Data Analysis
+3️⃣ SQL Fundamentals
+4️⃣ Python Basics
+5️⃣ Acquiring Data
+
+𝐋𝐢𝐧𝐤 👇:- 
+
+https://pdlink.in/45WnGy1
+
+✅ Learn Online | 📜 Get Certified
+
+10 Python One-Liners Every Machine Learning Practitioner Should Know - MachineLearningMastery.com https://share.google/cmERilLswnjvhIUmi
+
+https://www.youtube.com/watch?v=r1bquDz5GGA
+
+https://www.youtube.com/watch?v=uDwa-OOy43k
+
+https://medium.com/@adkananthi/logits-as-confidence-the-hidden-power-ai-engineers-need-to-unlock-in-llms-and-vlms-194d512c31f2
+
+https://medium.com/@adkananthi/logits-as-confidence-the-hidden-power-ai-engineers-need-to-unlock-in-llms-and-vlms-194d512c31f2
+
+https://www.kaggle.com/code/shawamar/product-recommendation-system-for-e-commerce
+
+https://medium.com/datafabrica/mastering-e-commerce-product-recommendations-in-python-7c12a4bf0c2c
+
+https://datarade.ai/search/products/ecommerce-sales-datasets
+
+https://www.iguazio.com/blog/13-best-free-retail-datasets-for-machine-learning/
+
+https://www.kaggle.com/code/allunia/e-commerce-sales-forecast
+
+https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset
+
+https://medium.com/@tobintom/agentic-ai-with-langgraph-437fcde22054
+
+https://www.linkedin.com/pulse/explaining-weights-biases-llms-jamshaid-mustafa-p64yf
+
+Lets try this https://www.youtube.com/watch?v=iTnpWmty52U
+
+Build Your Own Simple Data Pipeline with Python and Docker - KDnuggets https://share.google/xsCtADPjpwyMGQguy
+
+https://www.promptingguide.ai/techniques/cot
+
+https://supabase.com/blog/jwt-signing-keys
+
+https://www.youtube.com/watch?v=eI5sKJJ4Hrg try one of you
+
+Building End-to-End Data Pipelines: From Data Ingestion to Analysis - KDnuggets https://share.google/gdZy0pBFsbMAcFcwe
+
+https://docs.unsloth.ai/basics/gemma-3n-how-to-run-and-fine-tune
+
+https://www.youtube.com/watch?v=tUoUdOdTkRw This is very important algorithm, used all places
+
+https://www.youtube.com/watch?v=PcbuKRNtCUc
+
+Here is the tool link.
+
+https://www.aixploria.com/en/
+
+https://www.youtube.com/watch?v=2IK3DFHRFfw good for all
+
+https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html
+
+https://jalammar.github.io/illustrated-transformer/
+
+All about Queries, Keys and Values of Transformer. https://share.google/o66cPuplL9NVV9e4M
+
+https://www.billparker.ai/2024/10/transformer-attention-simple-guide-to-q.html
+
+https://huggingface.co/openai-community/gpt2/raw/main/vocab.json
+
+https://observablehq.com/@simonw/gpt-tokenizer
+
+https://www.youtube.com/watch?v=PvZN3-WqAOI
+
+PromptForge: The ultimate prompt engineering workbench | Product Hunt https://share.google/bQf0e5uuMvXZ3tcIO
+
+The Missing Guide to Prompt Engineering https://share.google/0XeCmdqH5OzTZr1Ny
+
+https://www.youtube.com/watch?v=NLOBYtfdxuM
+
+clickhouse native json is very fast.. https://clickhouse.com/blog/json-bench-clickhouse-vs-mongodb-elasticsearch-duckdb-postgresql
+
+https://www.youtube.com/watch?v=ioOHXt7wjhM
+
+https://www.youtube.com/watch?v=APnKbi448O4
+
+https://www.youtube.com/watch?v=fKd8s29e-l4
+
+5 Fun Python Projects for Absolute Beginners - KDnuggets https://share.google/bcME47Ezhi2asM5Ig
+
+10 GitHub Awesome Lists for Data Science - KDnuggets https://share.google/yP4tbS5FU1C0DdiYz
+
+https://huggingface.co/learn/llm-course/en/chapter12/2
+
+https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/
+
+https://www.youtube.com/watch?v=48Pm40aLqvU&t=12s
+
+https://www.youtube.com/watch?v=teaPfo6BCbo
+
+Become a Better Data Scientist with These Prompt Engineering Tips and Tricks | Towards Data Science https://share.google/oS8S31ekzVXiqpAFo
+
+Reinforcement learning, explained with a minimum of math and jargon https://share.google/JvfWz5IcKcxIRnsWB
+
+How to Learn AI for Data Analytics in 2025 - KDnuggets https://share.google/VdBtWNsKzFbDeK49k
+
+https://www.odoo.com/forum/help-1/how-to-configure-a-cashback-loyalty-program-in-odoo-pos-275525 odoo pos
+
+https://bassaminfotech.com/how-to-integrate-odoo-17-with-telegram/ This explains odoo17 with telegram bot integration.. we can follow this and modify for odoo18 and integrate telegram bot with our CRM
+
+Solving LLM Hallucinations in Conversational, Customer-Facing Use Cases - MarkTechPost https://share.google/IZSt6JHFnqPk3CvQB
+
+https://spotintelligence.com/2025/01/09/churn-prediction/  to understand concepts and theory related to churn prediction
+
+https://www.youtube.com/watch?v=qNglJgNOb7A
+
+LLaVA on a Budget: Multimodal AI with Limited Resources | Towards Data Science
+https://towardsdatascience.com/llava-on-a-budget-multimodal-ai-with-limited-resources/
+
+https://www.youtube.com/watch?v=O9HtT4nvWHI
+
+LLM-as-a-Judge: A Practical Guide | Towards Data Science
+https://towardsdatascience.com/llm-as-a-judge-a-practical-guide/
+
+https://www.youtube.com/watch?v=A83BbHFoKb8
+
+https://www.youtube.com/watch?v=IFsVsXAqPto
+
+https://www.youtube.com/watch?v=FJSvBZnQ0CI
+
+https://www.youtube.com/watch?v=aircAruvnKk
+
+https://www.youtube.com/watch?v=izbifbq3-eI
+
+if need more power try https://lightning.ai/ this has free version
+
+https://github.com/tadata-org/fastapi_mcp
+
+Introduction to vLLM: A High-Performance LLM Serving Engine - The New Stack
+https://thenewstack.io/introduction-to-vllm-a-high-performance-llm-serving-engine/
+
+https://www.youtube.com/watch?v=Wibxjrxf5ko
+
+https://www.youtube.com/watch?v=icZItWxw7AI
+
+https://www.youtube.com/watch?v=s-V7gKrsels
+
+https://www.youtube.com/watch?v=pOFcwcwtv3k
+
+https://www.youtube.com/watch?v=VGFpV3Qj4as go through this week end and notedown doubts.. if need go through multiple times to understand
+
+for aws data pilines we need to use aws glue https://aws.amazon.com/glue/?ams%23interactive-card-vertical%23pattern-data.filter=%257B%2522filters%2522%253A%255B%255D%257D
+
+https://clickhouse.com/blog/training-machine-learning-models-with-clickhouse-and-featureform we can try this sample also
+
+https://rookiecoderlok.hashnode.dev/learning-and-hiring-made-easy-with-mindsdb
+
+https://medium.com/@dhwanichauhan1072004/predicting-customer-churn-with-mindsdb-7dd7efc214c7
+
+https://mindsdb.com/blog/how-to-choose-a-real-estate-investment-company-with-mindsdb-and-llamaindex
+
+AWS’ Serverless MCP Server to aid agentic development of managed applications | InfoWorld
+https://www.infoworld.com/article/3999255/aws-serverless-mcp-server-to-aid-agentic-development-of-managed-applications.html
+
+https://github.com/mlflow/mlflow mlflow is open source alternative to sagemaker, fir now you guys can try mlflow.. if you guys understand mlflow then sagemaker will be easy
+
+https://www.youtube.com/watch?v=wLNBsr_JKuc amazon bedrock is similar to ollama
+
+https://www.youtube.com/watch?v=Ld2oTLY47sA
+
+The Art of Writing Readable Python Functions - KDnuggets
+https://www.kdnuggets.com/the-art-of-writing-readable-python-functions
